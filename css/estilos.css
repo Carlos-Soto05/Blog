@@ -1,0 +1,69 @@
+* {
+    background-color: #414141;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#Encabezado {
+    width: 85%;
+    background-color: #252525;
+}
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    color: #fdfdfa;
+    font-size: 32pt;
+    background-color: #252525;
+}
+.TxtEncabezado {
+    color: #fdfdfa;
+    background-color: #252525;
+}
+
+#Imagenes {
+    width: 85%;
+    background-color: #252525;
+    text-align: center;
+}
+img {
+    width: 30%;
+    background-color: #252525;
+}
+
+#Cuerpo {
+    width: 85%;
+    background-color: #ff0000;
+}
+.TxtCuerpo {
+    background-color: #ff0000;
+    color: #fdfdfa;
+    font-size: 14pt;
+}
+
+#Final {
+    width: 85%;
+    background-color: #af0404;
+}
+.TxtFinal {
+    width: 85%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 11pt;
+    color: #fdfdfa;
+    background-color: #af0404;
+}
+#Menu {
+    width: 85%;
+    background-color: #252525;
+    font-size: 18pt;
+    color: #fdfdfa;
+}
+.menu {
+    width: 85%;
+    background-color: #252525;
+    color: #fdfdfa;
+}
+#Imagen {
+    width: 85%;
+    text-align: right;
+    background-color: #252525;
+}
+#Lista {
+    width: 85%;
+}
